@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSDemo</string>
+    <string name="chuanganqi">跳转到传感器</string>
+    <string name="jiasudu">加速度</string>
+    <string name="guangxian">光线</string>
+    <string name="wendu">温度</string>
+    <string name="shidu">相对湿度</string>
+</resources>
